@@ -1,0 +1,6 @@
+﻿  MathForGameDevHomework1.cpp
+C:\Users\Gamer\Documents\gamer directories\university stuff\GameEngines\MathForGameDevHomework1\MathForGameDevHomework1.cpp(64,38): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+C:\Users\Gamer\Documents\gamer directories\university stuff\GameEngines\MathForGameDevHomework1\MathForGameDevHomework1.cpp(65,33): warning C4293: '>>': shift count negative or too big, undefined behavior
+  MathForGameDevHomework1.vcxproj -> C:\Users\Gamer\Documents\gamer directories\university stuff\GameEngines\MathForGameDevHomework1\x64\Debug\MathForGameDevHomework1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
