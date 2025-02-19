@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameEngines\\MathForGameDevHomework1\\",
+  "WorkspaceRootPath": "C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameEngines\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|solutionrelative:MathForGameDevHomework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\BITSET||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,23 +24,22 @@
               "DocumentIndex": 1,
               "Title": "bitset",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\bitset",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T15:26:46.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T15:26:46.585Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MathForGameDevHomework1.cpp",
-              "DocumentMoniker": "C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameEngines\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
+              "DocumentMoniker": "C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
               "RelativeDocumentMoniker": "MathForGameDevHomework1.cpp",
-              "ToolTip": "C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameEngines\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
+              "ToolTip": "C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
               "RelativeToolTip": "MathForGameDevHomework1.cpp",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-17T12:09:41.918Z",
               "EditorCaption": ""

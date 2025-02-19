@@ -26,14 +26,13 @@ double BytesToDouble(uint64_t const& value) {
 //2)
 //a) Check if floating-point value is finite value
 
-/*
-bool isfiniteFloat(float const& value) {
-
+bool isFiniteFloat(float const& value) {
+    return  (isFloatNormal(value) || isFloatSubnormal(value) || isFloatZero(value));
 }
 
-bool isfiniteDouble(double const& value) {
-
-}*/
+bool isFiniteDouble(double const& value) {
+    return (isDoubleNormal(value) || isDoubleSubnormal(value) || isDoubleZero(value));
+}
 
 //b) Check if floating-point value is any infinity value
 
@@ -184,9 +183,31 @@ bool isDoubleSubnormal(double const value) {
 
 //k) Check if floating-point value is signed
 
-bool 
+bool isFloatSigned(float const value) {
+    uint32_t bitValue = FloatToBytes(value);
+
+    return (bitValue >> 31) == 0b1;
+}
+
+bool isDoubleSigned(double const value) {
+    uint64_t bitValue = DoubleToBytes(value);
+
+    return (bitValue >> 63) == 0b1;
+}
 
 //l) Classify floating-point value
+
+//1) Categorizes floating point 
+//value num into the following categories: zero, subnormal, normal, infinite, NAN, or implementation-defined category.
+
+enum FPType {
+    ZERO,
+    SUBNORMAL,
+    NORMAL,
+    INFINITE,
+    NaN,
+
+};
 
 
 int main()
