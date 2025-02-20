@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\",
+  "WorkspaceRootPath": "C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5A42CE5-F1A1-4929-BF3D-1A5CE0C8C4F9}|MathForGameDevHomework1.vcxproj|solutionrelative:MathForGameDevHomework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MathForGameDevHomework1.cpp",
-              "DocumentMoniker": "C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
               "RelativeDocumentMoniker": "MathForGameDevHomework1.cpp",
-              "ToolTip": "C:\\Users\\markh\\OneDrive\\Documents\\Gamer repositories\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp",
-              "RelativeToolTip": "MathForGameDevHomework1.cpp",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAMoAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Gamer\\Documents\\gamer directories\\university stuff\\GameDevMath\\MathForGameDevHW1\\MathForGameDevHomework1\\MathForGameDevHomework1.cpp*",
+              "RelativeToolTip": "MathForGameDevHomework1.cpp*",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAAAG8BAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-17T12:09:41.918Z",
               "EditorCaption": ""
